@@ -1,5 +1,1 @@
-getgenv().RandomFruit = true
-getgenv().EspFruit = true
-getgenv().Team = "Marines"
-getgenv().WebhookUrl = ''
-loadstring(game:HttpGet('https://raw.githubusercontent.com/VNT-UNIVERSAL/Panda-Hub/main/Release/fruitfarm.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
